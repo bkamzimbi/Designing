@@ -12,8 +12,8 @@
    </head>
    <body>
 <p align="center">
-  <img src="burtk.jpg" width="350" title=" map of malawi">
-  <img src=" euriter.jpg" width="350" alt="map of southern africa">
+  <img src="burtk.jpg"  alt =" map of malawi"  style="width:128px;height:128px;>
+  <img src=" euriter.jpg"  alt="map of southern africa" style="width:128px; height:128px;">
 </p>
    </body>
    
